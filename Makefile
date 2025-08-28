@@ -15,7 +15,7 @@ up:
 	docker compose -f services/observability.yaml up
 	docker compose -f services/storage.yaml up
 
-# Para os containers do Airflow e dos serviços de observabilidade
+
 down:
 	docker compose -f services/observability.yaml down
 	docker compose -f services/storage.yaml down
