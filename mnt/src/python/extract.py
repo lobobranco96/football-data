@@ -81,3 +81,49 @@ class ExtractWikiData:
 
         # Combine columns and rows into a list of dictionaries
         return [dict(zip(columns, row)) for row in rows], links
+
+    def brasileirao_players(self, team_url):
+        try:
+            logging.info(f"Accessing URL: {self.url}")
+            self.driver.get(self.url)
+        except Exception as e:
+            logging.error(f"Error accessing the URL: {e}")
+            raise
+
+        soup = BeautifulSoup(self.driver.page_source, "lxml")
+        
+        # Collect Team Name
+        team_name_tag = soup.find("table", class_="infobox vcard vevent")
+        team_name_tag = team_name_tag.find(class_="fn summary") if team_name_tag else None
+        team_name = team_name_tag.get_text().strip() if team_name_tag else None
+
+        # Localize the correct player data over class toccolours
+        players_table = None
+        for table in soup.find_all("table", class_="toccolours"):
+            if "N.º" in table.get_text() and "Pos." in table.get_text():
+                players_table = table
+                break
+
+        players_list = list()
+        
+        if players_table:
+            for row in players_table.find_all("tr")[2:]:  # ignore headers
+                columns = row.find_all("td")
+                # Itera de 3 em 3 colunas (cada jogador)
+                for i in range(0, len(columns), 3):
+                    if i+2 < len(columns):
+                        tshirt_number = columns[i].get_text(strip=True)
+                        position = columns[i+1].get_text(strip=True)
+                        player_name = columns[i+2].get_text(strip=True)
+
+                        players_list.append({
+                            "tshirt_number": tshirt_number,
+                            "position": position,
+                            "player_name": player_name,
+                            "team_name": team_name
+                        })
+
+        return pd.DataFrame(players_list)
+
+
+
