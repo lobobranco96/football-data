@@ -62,13 +62,22 @@ class ExtractWikiData:
         columns = [th.get_text(strip=True) for th in wiki_data.find("tr").find_all("th")]
 
         # Extract all rows
-        rows = []
-        for tr in wiki_data.find_all("tr")[1:]:  # Skip the header row
+        rows = list()
+        links = list() # store url pages from players team
+        for tr in wiki_data.find_all("tr")[1:]:
             teams = tr.find_all("td")
             if teams:
-                # Extract text from each cell in the row
-                row = [td.get_text(" ", strip=True) for td in teams]
+                row = []
+                for idx, td in enumerate(teams):
+                    if idx == 0:
+                        a_tag = td.find("a")
+                        team_name = td.get_text(" ", strip=True).replace("\xa0", "")
+                        href = a_tag.get("href") if a_tag else None
+                        row.append(team_name)
+                        links.append("https://pt.wikipedia.org" + href if href else None)
+                    else:
+                        row.append(td.get_text(" ", strip=True).replace("\xa0", ""))
                 rows.append(row)
 
         # Combine columns and rows into a list of dictionaries
-        return [dict(zip(columns, row)) for row in rows]
+        return [dict(zip(columns, row)) for row in rows], links
