@@ -13,7 +13,7 @@ class ExtractWikiData:
         url (str): The URL of the Wikipedia page to scrape.
     """
 
-    def __init__(self, driver, url):
+    def __init__(self, driver):
         """
         Initializes the ExtractWikiData instance with a Selenium driver and a URL.
 
@@ -22,12 +22,11 @@ class ExtractWikiData:
             url (str): The Wikipedia page URL to scrape.
         """
         self.driver = driver
-        self.url = url
 
-    def brasileirao_teams(self):
+    def brasileirao_teams(self, url):
         """
         Extracts the Brazilian Championship "Brasileirão 2025" teams from the Wikipedia page.
-
+        url (str): The Wikipedia page URL to scrape.
         Steps:
             1. Load the page using Selenium.
             2. Parse the page source with BeautifulSoup.
@@ -47,11 +46,17 @@ class ExtractWikiData:
             logging.error(f"Error accessing the URL: {e}")
             raise
 
-        # Parse the page HTML with BeautifulSoup
-        soup = BeautifulSoup(self.driver.page_source, "lxml")
+        # Wait until the table with both classes is present
+        wait = WebDriverWait(self.driver, 10)
+        wait.until(EC.presence_of_element_located(
+            (By.CSS_SELECTOR, "table.wikitable.sortable")
+        ))
 
-        # Find the data from the class 'wikitable sortable'
-        wiki_data = soup.find("table", class_="wikitable sortable")
+        soup = BeautifulSoup(self.driver.page_source, "lxml")
+        wiki_data = soup.select_one("table.wikitable.sortable")  
+
+        if wiki_data is None:
+            raise ValueError("Table 'wikitable sortable' not found in page")
 
         # Extract column headers
         columns = [th.get_text(strip=True) for th in wiki_data.find("tr").find_all("th")]
