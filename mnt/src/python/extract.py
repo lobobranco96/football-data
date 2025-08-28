@@ -82,10 +82,36 @@ class ExtractWikiData:
         # Combine columns and rows into a list of dictionaries
         return [dict(zip(columns, row)) for row in rows], links
 
-    def brasileirao_players(self, team_url):
+    def collect_full_players_data(self, team_url_list):
+      """
+      Itera sobre todas as URLs de times e junta todos os jogadores em uma lista de dicionários.
+
+      Args:
+          lista_times (List[str]): Lista de URLs das páginas de cada time.
+
+      Returns:
+          List[Dict]: Lista com todos os jogadores de todos os times.
+      """
+      players = []
+
+      for team_url in team_url_list:
+          try:
+              players_team = self.brasileirao_players(team_url)
+              if players_team:
+                  players.extend(players_team)
+                  logging.info(f"Extraídos {len(players_team)} jogadores de {team_url}")
+              else:
+                  logging.warning(f"{team_url} - Falhou: retornou lista vazia")
+          except Exception as e:
+              logging.error(f"Erro ao extrair jogadores de {team_url}: {e}")
+
+
+      return players
+
+    def brasileirao_team_players(self, team_url):
         try:
             logging.info(f"Accessing URL: {self.url}")
-            self.driver.get(self.url)
+            self.driver.get(team_url)
         except Exception as e:
             logging.error(f"Error accessing the URL: {e}")
             raise
@@ -123,7 +149,7 @@ class ExtractWikiData:
                             "team_name": team_name
                         })
 
-        return pd.DataFrame(players_list)
+        return players_list
 
 
 
