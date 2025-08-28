@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 
-def driver_selenium():
+def selenium_webdriver():
   """
   Inicializa o driver do Selenium com Chromium em modo headless.
 
