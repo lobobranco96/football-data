@@ -1,5 +1,9 @@
-from bs4 import BeautifulSoup
 import logging
+from bs4 import BeautifulSoup
+
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 # Configure logging to show INFO level messages
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -10,7 +14,6 @@ class ExtractWikiData:
 
     Attributes:
         driver (webdriver.Chrome): Selenium WebDriver instance to load web pages.
-        url (str): The URL of the Wikipedia page to scrape.
     """
 
     def __init__(self, driver):
@@ -19,7 +22,6 @@ class ExtractWikiData:
 
         Args:
             driver (webdriver.Chrome): Selenium WebDriver instance.
-            url (str): The Wikipedia page URL to scrape.
         """
         self.driver = driver
 
