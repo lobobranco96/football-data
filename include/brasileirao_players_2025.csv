@@ -1,0 +1,661 @@
+,tshirt_number,position,player_name,team_name
+0,1,G,Gabriel Delfim,Atlético Mineiro
+1,17,M,Igor Gomes,Atlético Mineiro
+2,31,G,Robert,Atlético Mineiro
+3,2,LD,Natanael,Atlético Mineiro
+4,18,M,Reinier,Atlético Mineiro
+5,32,G,Gabriel Átila,Atlético Mineiro
+6,4,Z,Lyanco,Atlético Mineiro
+7,19,A,João Marcelo,Atlético Mineiro
+8,33,A,Rony,Atlético Mineiro
+9,5,V,Alexsander,Atlético Mineiro
+10,20,V,Patrick Silva,Atlético Mineiro
+11,37,A,Júnior Santos,Atlético Mineiro
+12,6,Z,Junior Alonso,Atlético Mineiro
+13,21,V,Alan Franco,Atlético Mineiro
+14,38,LE,Caio Paulista,Atlético Mineiro
+15,7,A,Hulk,Atlético Mineiro
+16,22,G,Éverson,Atlético Mineiro
+17,39,A,Caio Maia,Atlético Mineiro
+18,8,V,Fausto Vera,Atlético Mineiro
+19,23,Z,Iván Román,Atlético Mineiro
+20,42,A,Cadu,Atlético Mineiro
+21,10,M,Gustavo Scarpa,Atlético Mineiro
+22,25,V,Gabriel Menino,Atlético Mineiro
+23,48,M,Mateus Iseppe,Atlético Mineiro
+24,11,M,Bernard,Atlético Mineiro
+25,26,LD,Saravia,Atlético Mineiro
+26,77,A,Gabriel Teixeira,Atlético Mineiro
+27,13,LE,Guilherme Arana,Atlético Mineiro
+28,28,A,Tomás Cuello,Atlético Mineiro
+29,92,A,Dudu,Atlético Mineiro
+30,14,Z,Vitor Hugo,Atlético Mineiro
+31,30,A,Isaac,Atlético Mineiro
+32,–,Z,Ruan,Atlético Mineiro
+33,1,G,Danilo Fernandes,Bahia
+34,13,LD,Santiago Arias,Bahia
+35,34,G,João Paulo,Bahia
+36,2,LD,Gilberto,Bahia
+37,14,V,Erick,Bahia
+38,37,A,Kayky,Bahia
+39,3,Z,Gabriel Xavier,Bahia
+40,15,M,Michel Araújo,Bahia
+41,44,Z,Luiz Gustavo,Bahia
+42,4,Z,Kanu,Bahia
+43,16,A,Erick Pulga,Bahia
+44,46,LE,Luciano Juba,Bahia
+45,5,V,Rezende,Bahia
+46,17,A,Luciano Rodriguez,Bahia
+47,66,LE,Zé Guilherme,Bahia
+48,6,V,Jean Lucas,Bahia
+49,19,V,Caio Alexandre,Bahia
+50,70,M,Vitinho,Bahia
+51,7,A,Ademir,Bahia
+52,21,Z,Ramos Mingo,Bahia
+53,77,A,Tiago,Bahia
+54,8,M,Cauly,Bahia
+55,23,A,Sanabria,Bahia
+56,96,G,Ronaldo,Bahia
+57,10,M,Éverton Ribeiro,Bahia
+58,25,LE,Iago Borduchi,Bahia
+59,,,,Bahia
+60,11,M,Rodrigo Nestor,Bahia
+61,26,V,Nicolás Acevedo,Bahia
+62,,,,Bahia
+63,12,A,Willian José,Bahia
+64,33,Z,David Duarte,Bahia
+65,,,,Bahia
+66,1,G,Raul,Botafogo
+67,15,Z,Bastos,Botafogo
+68,31,Z,Kaio Pantaleão,Botafogo
+69,2,LD,Vitinho,Botafogo
+70,16,A,Nathan Fernandes,Botafogo
+71,35,V,Danilo,Botafogo
+72,4,LD,Mateo Ponte,Botafogo
+73,17,V,Marlon Freitas,Botafogo
+74,39,A,Mastriani,Botafogo
+75,6,LE,Cuiabano,Botafogo
+76,19,A9,Kayke,Botafogo
+77,40,G,Cristhian Loor,Botafogo
+78,7,A,Artur,Botafogo
+79,20,Z,Alexander Barboza,Botafogo
+80,47,A,Jeffinho,Botafogo
+81,8,M,Álvaro Montoro,Botafogo
+82,21,LE,Marçal,Botafogo
+83,48,V,Huguinho,Botafogo
+84,9,A,Chris Ramos,Botafogo
+85,22,G,Neto,Botafogo
+86,57,Z,David Ricardo,Botafogo
+87,10,A,Savarino,Botafogo
+88,23,M,Santiago Rodríguez,Botafogo
+89,77,M,Kauan Lindes,Botafogo
+90,11,A,Matheus Martins,Botafogo
+91,24,G,Léo Linck,Botafogo
+92,98,A,Arthur Cabral,Botafogo
+93,12,G,John,Botafogo
+94,25,V,Allan,Botafogo
+95,–,Z,Gabriel Bahia,Botafogo
+96,13,LE,Alex Telles,Botafogo
+97,28,V,Newton,Botafogo
+98,,,,Botafogo
+99,14,A,Jordan Barrera,Botafogo
+100,30,A,Joaquín Correa,Botafogo
+101,,,,Botafogo
+102,1,G,Richard,Ceará
+103,16,G,Fernando Miguel,Ceará
+104,33,Z,Éder,Ceará
+105,2,LD,Rafael Ramos,Ceará
+106,18,G,Keiller,Ceará
+107,44,Z,Marcos Victor,Ceará
+108,3,Z,Marllon,Ceará
+109,20,LD/V,Dieguinho,Ceará
+110,70,LD,Fabiano Souza,Ceará
+111,7,A,Pedro Henrique,Ceará
+112,23,Z,Willian Machado,Ceará
+113,75,M/A,Rodriguinho,Ceará
+114,8,M,Matheus Araújo,Ceará
+115,25,V,Vinicius Zanocelo,Ceará
+116,77,A,Fernandinho,Ceará
+117,9,A,Pedro Raul,Ceará
+118,26,V,Richardson,Ceará
+119,79,LE,Matheus Bahia,Ceará
+120,10,M,Lucas Mugni,Ceará
+121,27,A,Galeano,Ceará
+122,80,A,Guilherme,Ceará
+123,11,A,Aylon,Ceará
+124,29,M,Vina,Ceará
+125,88,V,Fernando Sobral,Ceará
+126,13,Z,Luiz Otávio,Ceará
+127,30,LE,Nicolas,Ceará
+128,94,G,Bruno Ferreira,Ceará
+129,15,Z,Gabriel Lacerda,Ceará
+130,31,V,Lucas Lima,Ceará
+131,97,V,Lourenço,Ceará
+132,1,G,Hugo Souza,Corinthians
+133,13,Z,Gustavo Henrique,Corinthians
+134,31,A,Kayke,Corinthians
+135,2,LD,Matheuzinho,Corinthians
+136,14,V,Raniele,Corinthians
+137,32,G,Matheus Donelli,Corinthians
+138,3,Z,Félix Torres,Corinthians
+139,19,M,André Carrillo,Corinthians
+140,35,V,Charles,Corinthians
+141,5,Z,André Ramalho,Corinthians
+142,21,LE,Matheus Bidu,Corinthians
+143,37,V,Ryan,Corinthians
+144,7,V,Maycon,Corinthians
+145,22,A,Héctor Hernández,Corinthians
+146,40,G,Felipe Longo,Corinthians
+147,8,M,Rodrigo Garro,Corinthians
+148,25,Z,Cacá,Corinthians
+149,43,A,Talles Magno,Corinthians
+150,9,A,Yuri Alberto,Corinthians
+151,26,LE,Fabrizio Angileri,Corinthians
+152,46,LE,Hugo,Corinthians
+153,10,A,Memphis Depay,Corinthians
+154,27,V,Breno Bidon,Corinthians
+155,47,Z,João Pedro,Corinthians
+156,11,A,Ángel Romero,Corinthians
+157,29,A,Vitinho,Corinthians
+158,70,V,José Martínez,Corinthians
+159,1,G,Cássio,Cruzeiro
+160,15,Z,Fabrício Bruno,Cruzeiro
+161,36,LE,Kauã Prates,Cruzeiro
+162,5,V,Walace,Cruzeiro
+163,16,V,Lucas Silva,Cruzeiro
+164,41,G,Léo Aragão,Cruzeiro
+165,6,LE,Kaiki Bruno,Cruzeiro
+166,17,A,Luis Sinisterra,Cruzeiro
+167,43,Z,João Marcelo,Cruzeiro
+168,7,A,Marquinhos,Cruzeiro
+169,19,A,Kaio Jorge,Cruzeiro
+170,77,V,Japa,Cruzeiro
+171,8,V,Matheus Henrique,Cruzeiro
+172,21,M,Eduardo,Cruzeiro
+173,81,G,Otávio,Cruzeiro
+174,9,A,Gabriel Barbosa,Cruzeiro
+175,23,LD,Fagner,Cruzeiro
+176,88,V,Christian,Cruzeiro
+177,10,M,Matheus Pereira,Cruzeiro
+178,25,Z,Lucas Villalba,Cruzeiro
+179,94,A,Wanderson,Cruzeiro
+180,11,A,Yannick Bolasie,Cruzeiro
+181,26,A,Lautaro Díaz,Cruzeiro
+182,-,V,Ryan Guilherme,Cruzeiro
+183,12,LD,William,Cruzeiro
+184,29,V,Lucas Romero,Cruzeiro
+185,,,,Cruzeiro
+186,14,Z,Mateo Gamarra,Cruzeiro
+187,34,Z,Jonathan Jesus,Cruzeiro
+188,,,,Cruzeiro
+189,1,G,Rossi,Flamengo
+190,13,Z,Danilo,Flamengo
+191,26,LE,Alex Sandro,Flamengo
+192,2,LD,Varela,Flamengo
+193,15,M,Jorge Carrascal,Flamengo
+194,27,A,Bruno Henrique,Flamengo
+195,3,Z,Léo Ortiz,Flamengo
+196,16,A,Samuel Lino,Flamengo
+197,28,M,Victor Hugo,Flamengo
+198,4,Z,Léo Pereira,Flamengo
+199,17,LE,Matías Viña,Flamengo
+200,29,V,Allan,Flamengo
+201,5,V,Erick,Flamengo
+202,18,M,De la Cruz,Flamengo
+203,30,A,Michael,Flamengo
+204,6,LE,Ayrton Lucas,Flamengo
+205,19,M,Lorran,Flamengo
+206,33,Z,Cleiton,Flamengo
+207,7,A,Luiz Araújo,Flamengo
+208,20,M,Matheus Gonçalves,Flamengo
+209,49,G,Dyogo Alves,Flamengo
+210,8,M,Saúl,Flamengo
+211,21,V,Jorginho,Flamengo
+212,50,A,Gonzalo Plata,Flamengo
+213,9,A,Pedro,Flamengo
+214,22,LD,Emerson Royal,Flamengo
+215,52,V,Evertton Araújo,Flamengo
+216,10,M,De Arrascaeta,Flamengo
+217,23,A,Juninho,Flamengo
+218,64,A,Wallace Yan,Flamengo
+219,11,A,Everton,Flamengo
+220,25,G,Matheus Cunha,Flamengo
+221,,,,Flamengo
+222,1,G,Fábio,Fluminense
+223,14,A,Germán Cano,Fluminense
+224,30,A,Santi Moreno,Fluminense
+225,2,LD,Samuel Xavier,Fluminense
+226,16,V,Nonato,Fluminense
+227,32,M,Lucho Acosta,Fluminense
+228,3,Z,Thiago Silva,Fluminense
+229,17,A,Agustín Canobbio,Fluminense
+230,35,V,Hércules,Fluminense
+231,4,Z,Ignácio,Fluminense
+232,18,M,Lezcano,Fluminense
+233,40,Z,Davi Schuindt,Fluminense
+234,5,V,Facundo Bernal,Fluminense
+235,19,A,Lavega,Fluminense
+236,45,M,Lima,Fluminense
+237,6,LE,Renê,Fluminense
+238,21,Z,Igor Rabello,Fluminense
+239,46,LD,Julio Fidelis,Fluminense
+240,7,A,Soteldo,Fluminense
+241,22,Z,Freytes,Fluminense
+242,55,V,Wallace Davi,Fluminense
+243,8,V,Martinelli,Fluminense
+244,23,LD,Guga,Fluminense
+245,90,A,Kevin Serna,Fluminense
+246,9,A,Everaldo,Fluminense
+247,26,Z,Manoel,Fluminense
+248,94,V,Otávio,Fluminense
+249,10,M,PH Ganso,Fluminense
+250,27,G,Marcelo Pitaluga,Fluminense
+251,98,G,Vitor Eudes,Fluminense
+252,11,A,Keno,Fluminense
+253,28,A,Riquelme,Fluminense
+254,99,A,John Kennedy,Fluminense
+255,12,LE,Gabriel Fuentes,Fluminense
+256,29,Z,Thiago Santos,Fluminense
+257,,,,Fluminense
+258,1,G,João Ricardo,Fortaleza
+259,16,LE,Diogo Barbosa,Fortaleza
+260,33,Z,Emanuel Brítez,Fortaleza
+261,2,LD,Tinga,Fortaleza
+262,17,V,Zé Welison,Fortaleza
+263,36,LE,Weverson,Fortaleza
+264,3,Z,Gastón Ávila,Fortaleza
+265,18,A,Deyverson,Fortaleza
+266,38,M,Lucca Prior,Fortaleza
+267,5,M,Matheus Pereira,Fortaleza
+268,19,A,Allanzinho,Fortaleza
+269,39,Z,Gustavo Mancha,Fortaleza
+270,6,LE,Bruno Pacheco,Fortaleza
+271,20,V,Matheus Rossetto,Fortaleza
+272,70,M,Pablo Roberto,Fortaleza
+273,7,M,Tomás Pochettino,Fortaleza
+274,21,A,Moisés,Fortaleza
+275,77,M,Kervin Andrade,Fortaleza
+276,8,M,Emmanuel Martínez,Fortaleza
+277,22,M,Yago Pikachu,Fortaleza
+278,80,A,José Herrera,Fortaleza
+279,9,A,Juan Martín Lucero,Fortaleza
+280,23,G,Helton Leite,Fortaleza
+281,88,V,Lucas Sasha,Fortaleza
+282,11,A,Marinho,Fortaleza
+283,25,G,Vinicius Silvestre,Fortaleza
+284,–,G,Eduardo Salvador,Fortaleza
+285,12,G,Brenno,Fortaleza
+286,26,A,Breno Lopes,Fortaleza
+287,–,Z,Lucas Gazal,Fortaleza
+288,13,Z,Benjamín Kuscevic,Fortaleza
+289,27,A,Adam Bareiro,Fortaleza
+290,,,,Fortaleza
+291,14,LD,Eros Mancuso,Fortaleza
+292,29,M,Rodrigo Santos,Fortaleza
+293,,,,Fortaleza
+294,15,G,Magrão,Fortaleza
+295,30,V,Pierre,Fortaleza
+296,,,,Fortaleza
+297,1,G,Tiago Volpi,Grêmio
+298,14,LD,Marcos Rocha,Grêmio
+299,36,LE,Luan Cândido,Grêmio
+300,2,LD,João Lucas,Grêmio
+301,15,V,Camilo,Grêmio
+302,44,Z,Viery,Grêmio
+303,3,Z,Wagner Leonardo,Grêmio
+304,16,A,Aravena,Grêmio
+305,47,A,Alysson,Grêmio
+306,4,Z,Kannemann,Grêmio
+307,17,V,Dodi,Grêmio
+308,53,Z,Gustavo Martins,Grêmio
+309,5,Z,Rodrigo Ely,Grêmio
+310,18,LD,João Pedro,Grêmio
+311,65,M,Riquelme,Grêmio
+312,6,V,Cuéllar,Grêmio
+313,19,V,Erick Noriega,Grêmio
+314,77,A,André Henrique,Grêmio
+315,7,A,Pavon,Grêmio
+316,20,V,Villasanti,Grêmio
+317,80,V,Alex Santana,Grêmio
+318,8,V,Edenilson,Grêmio
+319,21,Z,Jemerson,Grêmio
+320,95,A,Carlos Vinícius,Grêmio
+321,9,A,Amuzu,Grêmio
+322,22,A,Braithwaite,Grêmio
+323,99,A,Cristian Olivera,Grêmio
+324,10,M,Franco Cristaldo,Grêmio
+325,23,LE,Marlon,Grêmio
+326,–,V,Arthur,Grêmio
+327,11,M,Monsalve,Grêmio
+328,24,G,Thiago Beltrame,Grêmio
+329,,,,Grêmio
+330,12,G,Gabriel Grando,Grêmio
+331,25,LE,Lucas Esteves,Grêmio
+332,,,,Grêmio
+333,13,Z,Fabián Balbuena,Grêmio
+334,31,G,Jorge,Grêmio
+335,,,,Grêmio
+336,1,G,Sergio Rochet,Internacional
+337,17,M,Bruno Tabata,Internacional
+338,29,V,Thiago Maia,Internacional
+339,4,Z,Vitão,Internacional
+340,18,Z,Juninho,Internacional
+341,35,LD,Braian Aguirre,Internacional
+342,7,A,Johan Carbonero,Internacional
+343,19,A,Rafael Borré,Internacional
+344,36,V,Richard,Internacional
+345,8,V,Bruno Henrique,Internacional
+346,20,Z,Clayton Sampaio,Internacional
+347,37,M,Yago Noal,Internacional
+348,10,M,Alan Patrick,Internacional
+349,21,A,Wesley,Internacional
+350,39,V,Luis Otavio,Internacional
+351,11,M,Óscar Romero,Internacional
+352,22,G,Kauan,Internacional
+353,41,Z,Victor Gabriel,Internacional
+354,12,G,Ivan Quaresma,Internacional
+355,23,LD,Alan Benítez,Internacional
+356,45,A,Lucca,Internacional
+357,13,A,Enner Valencia,Internacional
+358,24,G,Anthoni,Internacional
+359,47,M,Gustavo Prado,Internacional
+360,14,M,Alan Rodríguez,Internacional
+361,25,Z,Gabriel Mercado,Internacional
+362,48,A,Raykkonen,Internacional
+363,15,LD,Bruno Gomes,Internacional
+364,26,LE,Alexandro Bernabei,Internacional
+365,49,A,Ricardo Mathias,Internacional
+366,16,V,Ronaldo,Internacional
+367,28,A,Vitinho,Internacional
+368,,,,Internacional
+369,2,LD,Ewerthon,Juventude
+370,19,A,Gabriel Taliari,Juventude
+371,47,Z,Marcos Paulo,Juventude
+372,3,Z,Luan Freitas,Juventude
+373,21,G,Ruan Carneiro,Juventude
+374,55,V,Hudson,Juventude
+375,4,Z,Wilker Ángel,Juventude
+376,22,LE,Marcelo Hermes,Juventude
+377,72,V,Daniel Peixoto,Juventude
+378,5,Z,Cipriano,Juventude
+379,23,Z,Abner,Juventude
+380,77,M,Luiz Henrique,Juventude
+381,7,A,Gabriel Veron,Juventude
+382,25,G,Gastón Guruceaga,Juventude
+383,93,LD,Reginaldo,Juventude
+384,8,V,Daniel Giraldo,Juventude
+385,27,A,Emerson Batalla,Juventude
+386,95,V,Caíque,Juventude
+387,9,A,Gilberto,Juventude
+388,28,LE,Alan Ruschel,Juventude
+389,97,A,Ênio,Juventude
+390,10,M,Nenê,Juventude
+391,31,G,Zé Henrique,Juventude
+392,99,A,Rafael Bilu,Juventude
+393,11,A,Giovanny,Juventude
+394,32,LD,Igor Formiga,Juventude
+395,–,Z,Bernardo,Juventude
+396,13,G,Jandrei,Juventude
+397,33,M,Lucas Fernandes,Juventude
+398,–,V,Juan Sforza,Juventude
+399,16,V,Jadson,Juventude
+400,34,Z,Rodrigo Sam,Juventude
+401,–,A,Marlon,Juventude
+402,17,A,Matheus Babi,Juventude
+403,36,Z,Natã Felipe,Juventude
+404,,,,Juventude
+405,18,A,Emerson Galego,Juventude
+406,44,M,Mandaca,Juventude
+407,,,,Juventude
+408,3,Z,Jemmes,Mirassol
+409,14,Z,David Braz,Mirassol
+410,34,Z,João Victor,Mirassol
+411,4,Z,Luiz Otávio,Mirassol
+412,17,A,Cristian Renato,Mirassol
+413,36,V,Matheus Sales,Mirassol
+414,5,V,Roni,Mirassol
+415,18,M,Matheus Bianqui,Mirassol
+416,41,V,Yago Felipe,Mirassol
+417,6,LE,Reinaldo,Mirassol
+418,19,LD,Lucas Ramon,Mirassol
+419,44,Z,Gabriel Knesowitsch,Mirassol
+420,7,A,Matheus Davó,Mirassol
+421,20,LD,Daniel Borges,Mirassol
+422,45,Z,Leonan,Mirassol
+423,8,M,Danielzinho,Mirassol
+424,21,M,José Aldo,Mirassol
+425,77,A,Alesson,Mirassol
+426,–,M,Shaylon,Mirassol
+427,22,G,Walter,Mirassol
+428,90,G,Thomazella,Mirassol
+429,10,M,Chico,Mirassol
+430,23,G,Alex Muralha,Mirassol
+431,91,A,Chico da Costa,Mirassol
+432,11,A,Negueba,Mirassol
+433,25,V,Neto Moura,Mirassol
+434,95,A,Edson Carioca,Mirassol
+435,12,A,Rafa Silva,Mirassol
+436,27,M,Gabriel,Mirassol
+437,99,A,Everton Maceió,Mirassol
+438,13,A,Luiz Filipe,Mirassol
+439,29,A,Clayson,Mirassol
+440,–,G,Bruno Bertinato,Mirassol
+441,1,G,Carlos Miguel,Palmeiras
+442,13,Z,Micael,Palmeiras
+443,26,Z,Murilo,Palmeiras
+444,3,Z,Bruno Fuchs,Palmeiras
+445,14,G,Marcelo Lomba,Palmeiras
+446,30,V,Lucas Evangelista,Palmeiras
+447,4,LD,Agustín Giay,Palmeiras
+448,15,Z,Gustavo Gómez,Palmeiras
+449,31,A,Luighi,Palmeiras
+450,5,V,Aníbal Moreno,Palmeiras
+451,17,A,Facundo Torres,Palmeiras
+452,32,V,Emiliano Martínez,Palmeiras
+453,6,LE,Jefté,Palmeiras
+454,18,M,Maurício,Palmeiras
+455,38,M,Figueiredo,Palmeiras
+456,7,A,Felipe Anderson,Palmeiras
+457,19,A,Ramón Sosa,Palmeiras
+458,40,V,Allan,Palmeiras
+459,9,A,Vitor Roque,Palmeiras
+460,21,G,Weverton,Palmeiras
+461,42,A,Flaco López,Palmeiras
+462,10,A,Paulinho,Palmeiras
+463,22,LE,Joaquín Piquerez,Palmeiras
+464,43,Z,Benedetti,Palmeiras
+465,11,A,Bruno Rodrigues,Palmeiras
+466,23,M,Raphael Veiga,Palmeiras
+467,,,,Palmeiras
+468,12,LD,Khellven,Palmeiras
+469,24,G,Aranha,Palmeiras
+470,,,,Palmeiras
+471,1,G,Cleiton,Red Bull Bragantino
+472,16,Z,Gustavo Marques,Red Bull Bragantino
+473,35,V,Matheus Fernandes,Red Bull Bragantino
+474,2,Z,Guzmán Rodríguez,Red Bull Bragantino
+475,17,A,Vinicinho,Red Bull Bragantino
+476,37,G,Fabrício,Red Bull Bragantino
+477,3,Z,Eduardo Santos,Red Bull Bragantino
+478,18,A,Thiago Borbas,Red Bull Bragantino
+479,40,G,Lucão,Red Bull Bragantino
+480,5,V,Fabinho,Red Bull Bragantino
+481,21,A,Lucas Barbosa,Red Bull Bragantino
+482,45,LD,Nathan Mendes,Red Bull Bragantino
+483,6,V,Gabriel,Red Bull Bragantino
+484,22,M,Gustavo Neves,Red Bull Bragantino
+485,57,A,Marcelinho Braz,Red Bull Bragantino
+486,7,M,Ramires,Red Bull Bragantino
+487,24,G,Fernando Costa,Red Bull Bragantino
+488,59,A,Athyrson,Red Bull Bragantino
+489,8,A,Sasha,Red Bull Bragantino
+490,29,LE,Juninho Capixaba,Red Bull Bragantino
+491,80,M,João Neto,Red Bull Bragantino
+492,9,A,Pitta,Red Bull Bragantino
+493,30,A,Mosquera,Red Bull Bragantino
+494,,,,Red Bull Bragantino
+495,10,M,Jhon Jhon,Red Bull Bragantino
+496,31,LE,Guilherme Lopes,Red Bull Bragantino
+497,,,,Red Bull Bragantino
+498,11,A,Fernando,Red Bull Bragantino
+499,32,LD,Agustín Sant'Anna,Red Bull Bragantino
+500,,,,Red Bull Bragantino
+501,12,LE,Vanderlan,Red Bull Bragantino
+502,33,A,Nacho,Red Bull Bragantino
+503,,,,Red Bull Bragantino
+504,14,Z,Pedro Henrique,Red Bull Bragantino
+505,34,LD,Andrés Hurtado,Red Bull Bragantino
+506,,,,Red Bull Bragantino
+507,1,G,João Paulo,Santos
+508,14,Z,Luan Peres,Santos
+509,32,A,Benjamín Rollheiser,Santos
+510,2,LD,Mayke,Santos
+511,15,V,Willian Arão,Santos
+512,33,LE,Souza,Santos
+513,3,Z,João Basso,Santos
+514,16,M,Thaciano,Santos
+515,35,M,Padula,Santos
+516,4,Z,Gil,Santos
+517,17,A,Gustavo Caballero,Santos
+518,41,M,Mateus Xavier,Santos
+519,5,V,João Schmidt,Santos
+520,18,LD,Igor Vinícius,Santos
+521,44,LD,JP Chermont,Santos
+522,6,V,Zé Rafael,Santos
+523,19,A,Deivid Washington,Santos
+524,45,G,João Pedro,Santos
+525,7,A,Robinho Jr.,Santos
+526,20,V,Hyan,Santos
+527,49,M,Gabriel Bontempo,Santos
+528,8,V,Tomás Rincón,Santos
+529,22,A,Álvaro Barreal,Santos
+530,77,G,Gabriel Brazão,Santos
+531,9,A,Tiquinho Soares,Santos
+532,25,Z,Luisão,Santos
+533,–,G,João Fernandes,Santos
+534,10,A,Neymar,Santos
+535,26,Z,João Ananias,Santos
+536,–,Z,Zé Ivaldo,Santos
+537,11,A,Guilherme,Santos
+538,30,Z,Vinicius Lira,Santos
+539,,,,Santos
+540,12,G,Diógenes,Santos
+541,31,LE,Gonzalo Escobar,Santos
+542,,,,Santos
+543,2,Z,Rafael Tolói,São Paulo
+544,15,M,Rodriguinho,São Paulo
+545,32,Z,Nahuel Ferraresi,São Paulo
+546,5,Z,Robert Arboleda,São Paulo
+547,16,V,Luiz Gustavo,São Paulo
+548,33,V,Luan,São Paulo
+549,6,LD,Cédric Soares,São Paulo
+550,17,A,André Silva,São Paulo
+551,35,Z,Sabino,São Paulo
+552,7,A,Lucas,São Paulo
+553,18,LE,Wendell,São Paulo
+554,36,LE,Patryck,São Paulo
+555,8,M,Oscar,São Paulo
+556,19,A,Juan Dinenno,São Paulo
+557,37,A,Henrique Carmo,São Paulo
+558,9,A,Jonathan Calleri,São Paulo
+559,20,V,Marcos Antônio,São Paulo
+560,42,LD,Maik,São Paulo
+561,10,A,Luciano,São Paulo
+562,21,V,Damián Bobadilla,São Paulo
+563,43,V,Negrucci,São Paulo
+564,11,A,Ferreira,São Paulo
+565,23,G,Rafael,São Paulo
+566,45,A,Lucca,São Paulo
+567,12,G,Leandro,São Paulo
+568,25,V,Alisson,São Paulo
+569,49,A,Ryan Francisco,São Paulo
+570,13,LE,Enzo Díaz,São Paulo
+571,28,Z,Alan Franco,São Paulo
+572,50,G,Young,São Paulo
+573,14,A,Gonzalo Tapia,São Paulo
+574,29,V,Pablo Maia,São Paulo
+575,–,LD,Maílton,São Paulo
+576,1,G,Denis,Sport
+577,22,G,Caíque França,Sport
+578,92,A,Pablo,Sport
+579,2,LD,Di Plácido,Sport
+580,25,Z,Antônio Carlos,Sport
+581,99,A,Zé Roberto,Sport
+582,3,LE,Kevyson,Sport
+583,27,V,Sérgio Oliveira,Sport
+584,,,,Sport
+585,6,Z,João Silva,Sport
+586,29,LE,Dalbert,Sport
+587,,,,Sport
+588,7,A,Gonçalo Paciência,Sport
+589,30,A,Chrystian Barletta,Sport
+590,,,,Sport
+591,8,M,Fabricio Domínguez,Sport
+592,32,LD,Hereda,Sport
+593,,,,Sport
+594,10,M,Lucas Lima,Sport
+595,33,LD,Matheus Alexandre,Sport
+596,,,,Sport
+597,13,Z,Renzo,Sport
+598,40,Z,Ramon,Sport
+599,,,,Sport
+600,14,V,Christian Rivera,Sport
+601,43,Z,Marcelo Ajul,Sport
+602,,,,Sport
+603,15,Z,Rafael Thyere,Sport
+604,54,V,Adriel,Sport
+605,,,,Sport
+606,16,LE,Igor Cariús,Sport
+607,58,M,Zé Lucas,Sport
+608,,,,Sport
+609,17,A,Carlos Alberto,Sport
+610,67,M,Dieguinho,Sport
+611,,,,Sport
+612,19,M,Hyoran,Sport
+613,72,M,Dedé,Sport
+614,,,,Sport
+615,20,A,Atencio,Sport
+616,77,A,Lenny Lobato,Sport
+617,,,,Sport
+618,21,G,Thiago Couto,Sport
+619,91,A,Romarinho,Sport
+620,,,,Sport
+621,1,G,Lucas Arcanjo,Vitória
+622,22,A,Lucas Braga,Vitória
+623,76,M,Felipe Cardoso,Vitória
+624,2,LD,Claudinho,Vitória
+625,23,A,Fabri,Vitória
+626,77,Z,Neris,Vitória
+627,3,Z,Zé Marcos,Vitória
+628,27,LD,Raúl Cáceres,Vitória
+629,79,A,Renato Kayzer,Vitória
+630,5,Z,Lucas Halter,Vitória
+631,28,V,Ricardo Ryller,Vitória
+632,99,A,Carlinhos,Vitória
+633,6,M,Pepê,Vitória
+634,29,V,Willian Oliveira,Vitória
+635,,,,Vitória
+636,7,A,Romarinho,Vitória
+637,31,A,Renzo López,Vitória
+638,,,,Vitória
+639,8,V,Ronald,Vitória
+640,33,A,Erick,Vitória
+641,,,,Vitória
+642,10,A,Matheuzinho,Vitória
+643,35,G,Alexandre Fintelman,Vitória
+644,,,,Vitória
+645,11,A,Osvaldo,Vitória
+646,38,A,Léo Pereira,Vitória
+647,,,,Vitória
+648,12,G,Thiago Couto,Vitória
+649,42,G,Davi,Vitória
+650,,,,Vitória
+651,16,V,Rúben Ismael,Vitória
+652,43,Z,Edu,Vitória
+653,,,,Vitória
+654,17,M,Aitor Cantalapiedra,Vitória
+655,44,V,Gabriel Baralhas,Vitória
+656,,,,Vitória
+657,20,M,Rúben Rodrigues,Vitória
+658,66,LE,Maykon Jesus,Vitória
+659,,,,Vitória
