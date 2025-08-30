@@ -1,4 +1,5 @@
 import logging
+from typing import Tuple, List, Dict
 from bs4 import BeautifulSoup
 
 from selenium.webdriver.common.by import By
@@ -25,7 +26,7 @@ class ExtractWikiData:
         """
         self.driver = driver
 
-    def brasileirao_teams(self, url):
+    def brasileirao_teams(self, url: str) -> Tuple[List[Dict[str, str]], List[str]]:
         """
         Extracts the Brazilian Championship "Brasileirão 2025" teams from the Wikipedia page.
         url (str): The Wikipedia page URL to scrape.
@@ -86,7 +87,7 @@ class ExtractWikiData:
         # Combine columns and rows into a list of dictionaries, a list of url
         return [dict(zip(columns, row)) for row in rows], urls
 
-    def brasileirao_players(self, team_url):
+    def brasileirao_players(self, team_url: str) -> List[Dict[str, str]]:
         try:
             logging.info(f"Accessing URL: {team_url}")
             self.driver.get(team_url)
@@ -129,7 +130,7 @@ class ExtractWikiData:
 
         return players_list
 
-    def collect_full_players_data(self, team_url_list):
+    def collect_players_from_teams(self, team_url_list: List[str]) -> List[Dict[str, str]]:
       """
       Itera sobre todas as URLs de times e junta todos os jogadores em uma lista de dicionários.
 
